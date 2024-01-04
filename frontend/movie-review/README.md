@@ -1,4 +1,4 @@
-# Movie Reivew React App
+# Movie Reivew Frontend (React App)
 
 This is the frontend for the Moview Review App
 
